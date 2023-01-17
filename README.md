@@ -14,7 +14,7 @@ Python        4 projects        ▃▃▃▃▁▁▁            44.44%
 ```
 #
 
-<details open>
+<details>
   <summary align="center"><h3>Exploited</h3></summary>
   <br>
   <div align="center">
