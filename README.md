@@ -5,12 +5,12 @@
 <p>By chance, $\large\textsf{\color{ProcessBlue}{scripts}}$ for various games, $\large\textsf{\color{Cerulean}{exploits}}$ and $\large\textsf{\color{RoyalBlue}{bots}}$ can be disposed here.</p>
 
 ---
-### What's used?
+### Stats - 2023
 ```Objective-C++
-C#            2 projects        ▃▃▁▁▁▁▁▁            22.22%
-C++           2 projects        ▃▃▁▁▁▁▁▁            22.22%
-Java          1 project         ▃▁▁▁▁▁▁▁             11.12%
-Python        4 projects        ▃▃▃▃▁▁▁            44.44%
+C#            2 projects        ▃▁▁▁▁▁▁▁▁            11.76%
+C++           5 projects        ▃▃▃▁▁▁▁▁            29.41%
+Java          3 project         ▃▃▁▁▁▁▁              17.64%
+Python        7 projects        ▃▃▃▃▁▁▁            41.17%
 ```
 #
 ### Prefers:
