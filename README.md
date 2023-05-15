@@ -13,9 +13,3 @@ Java          3 project         ▃▃▁▁▁▁▁              17.64%
 Python        7 projects        ▃▃▃▃▁▁▁            41.17%
 ```
 #
-### Prefers:
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C%20Sharp-black?style=flat-square&logo=CSharp)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=CoffeeScript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
